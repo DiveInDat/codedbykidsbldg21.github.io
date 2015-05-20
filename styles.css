@@ -1,4 +1,5 @@
 body{
+    background: rgba (0,100,0);
     width: 100%;
     padding: 0;
     margin: 0;
@@ -23,18 +24,14 @@ body{
     width: 33.33333333%;
 }
 #one{
-    background-color: blue;
     height: 60px;
 }
 #two{
-    background-color: green;
     height: 630px;
 }
 #three{
-    background-color: red;
     height: 300px;
 }
 #four{
-    background-color: yellow;
     height: 690px;
 }
